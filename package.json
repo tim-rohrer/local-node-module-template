@@ -1,0 +1,25 @@
+{
+  "name": "local-node-module-template",
+  "version": "1.0.0",
+  "description": "Provides template with jest, babel, eslint, typescript for development of local node modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tim-rohrer/local-node-module-template.git"
+  },
+  "keywords": [
+    "template",
+    "node",
+    "local",
+    "module"
+  ],
+  "author": "Tim Rohrer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tim-rohrer/local-node-module-template/issues"
+  },
+  "homepage": "https://github.com/tim-rohrer/local-node-module-template#readme"
+}
