@@ -8,7 +8,7 @@
     "clean:build": "rm -rf bin",
     "test-coverage": "jest --coverage",
     "type-check": "tsc",
-    "test": "jest",
+    "test": "jest --watch",
     "linter": "eslint src --ext ts --fix"
   },
   "repository": {
